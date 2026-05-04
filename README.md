@@ -48,13 +48,6 @@ Computer vision pipeline for state detection and algorithm generation.
 ### 🔹 4-Bit Computer
 Built a functional computer using TTL logic (ALU, registers, memory, control).
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahraali252&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
