@@ -54,7 +54,6 @@ Built a functional computer using TTL logic (ALU, registers, memory, control).
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahraali252&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahraali252&theme=tokyonight" />
 </p>
 
 ---
