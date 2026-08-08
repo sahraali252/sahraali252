@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-- Interested in Cybersecurity, AI/ML, Data Science, and Systems  
+- Interested in Cybersecurity, Finance, AI/ML, Data Science, and Systems  
 - I build full-stack apps and intelligent data pipelines  
 - I like working with both high-level AI systems and low-level architecture  
 
