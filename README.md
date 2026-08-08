@@ -1,59 +1,108 @@
-<h1 align="center">Hi, I'm Sahra 👋</h1>
+# Hi, I'm Sahra 👋
 
-<p align="center">
-  Software Engineering @ Concordia <br/>
-  Cybersecurity • AI/ML • Data Systems • Low-Level Design
-</p>
+Software Engineering student at Concordia University interested in **AI/ML, MLOps, Cybersecurity, FinTech, Cloud, and Systems Engineering**.
+
+I enjoy building projects that combine intelligent systems with production software, from LLM-powered applications and ML pipelines to full-stack platforms and low-level computer architecture.
 
 ---
 
 ## 👩‍💻 About Me
 
-- Interested in Cybersecurity, Finance, AI/ML, Data Science, and Systems  
-- I build full-stack apps and intelligent data pipelines  
-- I like working with both high-level AI systems and low-level architecture  
+* 🎓 Software Engineering @ Concordia University
+* 🤖 Building AI/ML and LLM-powered applications
+* ⚙️ Interested in MLOps, distributed systems, and cloud infrastructure
+* 💳 Exploring the intersection of software, finance, and AI
+* 🔐 Interested in cybersecurity and secure systems
+* 🧠 Experience across both high-level AI systems and low-level computer architecture
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+**Languages**
+Python • Go • Ruby • Java • JavaScript • TypeScript • SQL
 
-</p>
+**AI / Machine Learning**
+PyTorch • LangGraph • MLflow • OpenAI API • OpenCV • MediaPipe • Prompt Engineering
+
+**Backend & Web**
+FastAPI • Ruby on Rails • Node.js • Express.js • GraphQL • REST APIs
+
+**Frontend & Mobile**
+React • React Native • Expo • HTML • CSS
+
+**Cloud & DevOps**
+AWS • Docker • Kubernetes • Apache Kafka • Linux • Git • Prometheus
+
+**Databases**
+PostgreSQL • MySQL • MongoDB
 
 ---
 
-## 🧠 Projects
+## 🧠 Featured Projects
+
+### 🔹 TradeMind AI
+
+AI-powered trading journal that transforms voice and text trade notes into structured trading data.
+
+Built an LLM workflow that extracts entries, exits, strategies, emotions, and risk metrics while generating personalized feedback and historical performance insights.
+
+**Tech:** Python • FastAPI • LangGraph • PostgreSQL • Docker
+
+---
+
+### 🔹 AtlasML
+
+End-to-end MLOps platform for training, experiment tracking, model versioning, deployment, and monitoring.
+
+Built a production-oriented ML pipeline with containerized inference services and Kubernetes-based deployment.
+
+**Tech:** Python • PyTorch • MLflow • FastAPI • Docker • Kubernetes • Prometheus
+
+---
 
 ### 🔹 InternNext
-AI-powered system that transforms unstructured job descriptions into structured insights using LLM pipelines.
+
+AI-powered application developed during a 24-hour hackathon that transforms unstructured information into structured, actionable outputs using an LLM-driven data pipeline.
+
+**Focus:** LLMs • Prompt Engineering • Data Pipelines
+
+---
 
 ### 🔹 LifeReceipt
-Minimal mobile app that turns tracking into a receipt-style interface.
 
-### 🔹 Rubik’s Cube Solver
-Computer vision pipeline for state detection and algorithm generation.
+Mobile personal finance and life-tracking application built around a minimal receipt-style interface.
+
+**Tech:** React Native • Expo • TypeScript
+
+---
 
 ### 🔹 4-Bit Computer
-Built a functional computer using TTL logic (ALU, registers, memory, control).
 
+Designed and built a functional 4-bit computer using TTL logic, including an ALU, registers, memory, and control logic.
+
+**Focus:** Computer Architecture • Digital Logic • Hardware
+
+---
+
+## 💼 Experience
+
+### Software Development Engineering Intern @ Airix
+
+Contributing to a production B2B healthtech SaaS platform serving pharmacists and patients across Canada.
+
+Working across the stack with:
+
+**Go • React • TypeScript • React Native • Node.js • GraphQL • PostgreSQL • AWS**
 
 ---
 
 ## 🌐 Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/sahra-ali">LinkedIn</a> •
-  <a href="mailto:sahraxali@gmail.com">Email</a>
-</p>
+💼 LinkedIn: linkedin.com/in/sahraali
+💻 GitHub: github.com/sahraali252
+🌐 Portfolio: Check out my portfolio above!
+
+---
+
+*Building at the intersection of software, intelligent systems, and real-world problems.*
