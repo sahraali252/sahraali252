@@ -82,7 +82,6 @@ Building full-stack features for a production B2B healthtech platform serving ph
 ## Leadership and community
 
 - Director of External Affairs, Software Engineering and Computer Science Society
-- Organizer of weekly Algo Time and Tech Hour workshops
 - Member of ColorStack
 - Hackathon participant and builder of InternNext at Caffeine AI Montreal
 
