@@ -1,108 +1,91 @@
-# Hi, I'm Sahra 👋
+# Sahra Ali
 
-Software Engineering student at Concordia University interested in **AI/ML, MLOps, Cybersecurity, FinTech, Cloud, and Systems Engineering**.
+Software Engineering student at Concordia University building thoughtful software across real-time systems, security, artificial intelligence, fintech, and accessible technology.
 
-I enjoy building projects that combine intelligent systems with production software, from LLM-powered applications and ML pipelines to full-stack platforms and low-level computer architecture.
+I enjoy turning ambitious ideas into practical, well-designed products and learning by building across the stack.
 
----
+## Currently
 
-## 👩‍💻 About Me
+- Software Development Engineering Intern at Airix
+- Director of External Affairs at Concordia's Software Engineering and Computer Science Society
+- Building full-stack products, distributed systems, and AI-powered applications
+- Exploring the intersection of software, finance, security, and intelligent systems
 
-* 🎓 Software Engineering @ Concordia University
-* 🤖 Building AI/ML and LLM-powered applications
-* ⚙️ Interested in MLOps, distributed systems, and cloud infrastructure
-* 💳 Exploring the intersection of software, finance, and AI
-* 🔐 Interested in cybersecurity and secure systems
-* 🧠 Experience across both high-level AI systems and low-level computer architecture
+## Selected projects
 
----
+### Sentinel
 
-## 🚀 Tech Stack
+Real-time API threat detection platform that streams traffic through Kafka, applies configurable Go detection rules, persists alerts, and broadcasts them to a live operations dashboard.
 
-**Languages**
-Python • Go • Ruby • Java • JavaScript • TypeScript • SQL
+[Live demo](https://sentinel-api-defense.vercel.app) · [GitHub](https://github.com/sahraali252/sentinel)
 
-**AI / Machine Learning**
-PyTorch • LangGraph • MLflow • OpenAI API • OpenCV • MediaPipe • Prompt Engineering
+`Go` `Kafka` `Redis` `PostgreSQL` `React` `Docker`
 
-**Backend & Web**
-FastAPI • Ruby on Rails • Node.js • Express.js • GraphQL • REST APIs
+### AccessRoute
 
-**Frontend & Mobile**
-React • React Native • Expo • HTML • CSS
+Accessibility-first navigation platform that uses community reports and AI-assisted image analysis to identify real-world barriers and help users plan more accessible routes.
 
-**Cloud & DevOps**
-AWS • Docker • Kubernetes • Apache Kafka • Linux • Git • Prometheus
+[Live demo](https://access-route-theta.vercel.app/) · [GitHub](https://github.com/sahraali252/AccessRoute)
 
-**Databases**
-PostgreSQL • MySQL • MongoDB
+`React` `TypeScript` `AI` `Maps API` `Geolocation`
 
----
+### TradeMind AI
 
-## 🧠 Featured Projects
+AI-powered trading journal that converts voice and text trade notes into structured records and generates personalized performance insights.
 
-### 🔹 TradeMind AI
+[Live demo](https://trademind-ai-demo.vercel.app) · [GitHub](https://github.com/sahraali252/trademind-ai)
 
-AI-powered trading journal that transforms voice and text trade notes into structured trading data.
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `Docker`
 
-Built an LLM workflow that extracts entries, exits, strategies, emotions, and risk metrics while generating personalized feedback and historical performance insights.
+### PayFlow
 
-**Tech:** Python • FastAPI • LangGraph • PostgreSQL • Docker
+Event-driven fintech platform with asynchronous fraud scoring.
 
----
+[Live demo](https://payflow-demo-ebon.vercel.app) · [GitHub](https://github.com/sahraali252/payflow)
 
-### 🔹 AtlasML
+`Ruby on Rails` `Go` `Kafka` `Docker`
 
-End-to-end MLOps platform for training, experiment tracking, model versioning, deployment, and monitoring.
+### LifeReceipt
 
-Built a production-oriented ML pipeline with containerized inference services and Kubernetes-based deployment.
+Mobile application for tracking daily expenses, workouts, and tasks through a simple receipt-style summary.
 
-**Tech:** Python • PyTorch • MLflow • FastAPI • Docker • Kubernetes • Prometheus
+[GitHub](https://github.com/sahraali252/LifeReceipt)
 
----
+`React Native` `Expo` `TypeScript`
 
-### 🔹 InternNext
+### 4-bit computer
 
-AI-powered application developed during a 24-hour hackathon that transforms unstructured information into structured, actionable outputs using an LLM-driven data pipeline.
+Designed and built a functional 4-bit computer on a breadboard using TTL logic, including registers, memory, an ALU, and control circuitry.
 
-**Focus:** LLMs • Prompt Engineering • Data Pipelines
+`Computer Architecture` `Digital Logic` `Hardware`
 
----
+## Experience
 
-### 🔹 LifeReceipt
+### Software Development Engineering Intern — Airix
 
-Mobile personal finance and life-tracking application built around a minimal receipt-style interface.
+Building full-stack features for a production B2B healthtech platform serving pharmacists and patients across Canada.
 
-**Tech:** React Native • Expo • TypeScript
+`Go` `React` `TypeScript` `React Native` `Node.js` `GraphQL` `PostgreSQL` `AWS`
 
----
+## Technologies
 
-### 🔹 4-Bit Computer
+**Languages:** Python, Go, Ruby, Java, JavaScript, TypeScript, SQL
 
-Designed and built a functional 4-bit computer using TTL logic, including an ALU, registers, memory, and control logic.
+**Frontend and mobile:** React, React Native, Expo, HTML, CSS
 
-**Focus:** Computer Architecture • Digital Logic • Hardware
+**Backend and systems:** FastAPI, Ruby on Rails, Node.js, GraphQL, REST APIs, Kafka
 
----
+**Infrastructure and data:** AWS, Docker, Linux, PostgreSQL, MySQL, MongoDB
 
-## 💼 Experience
+**AI and machine learning:** LangGraph, PyTorch, OpenCV, MLflow, prompt engineering
 
-### Software Development Engineering Intern @ Airix
+## Leadership and community
 
-Contributing to a production B2B healthtech SaaS platform serving pharmacists and patients across Canada.
+- Director of External Affairs, Software Engineering and Computer Science Society
+- Organizer of weekly Algo Time and Tech Hour workshops
+- Member of ColorStack
+- Hackathon participant and builder of InternNext at Caffeine AI Montreal
 
-Working across the stack with:
+## Connect
 
-**Go • React • TypeScript • React Native • Node.js • GraphQL • PostgreSQL • AWS**
-
----
-
-## 🌐 Connect
-
-💼 LinkedIn: linkedin.com/in/sahraali
-💻 GitHub: github.com/sahraali252
-🌐 Portfolio: Check out my portfolio above!
-
----
-
-*Building at the intersection of software, intelligent systems, and real-world problems.*
+[LinkedIn](https://www.linkedin.com/in/sahraali) · [GitHub](https://github.com/sahraali252)
